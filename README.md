@@ -10,7 +10,7 @@
 
 <p align="left">
 
-<a href="https://fb.com/cngtan2503" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="cngtan2503" height="30" width="40" /></a>
+<a href="https://fb.com/cngtan2503" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="congtan2503" height="30" width="40" /></a>
 
 <a href="https://instagram.com/_tanisme" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_tanisme" height="30" width="40" /></a>
 
